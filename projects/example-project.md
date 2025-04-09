@@ -1,30 +1,20 @@
-# Example Project: [Project Name]
+# Example Project
 
-*   **Status:** Planning | In Progress | On Hold | Completed
-*   **Date Started:** YYYY-MM-DD
-*   **Date Completed:** YYYY-MM-DD (Optional)
+*   **Status:** (e.g., Planning, In Progress, Completed)
 
 ## Goal
 
-Briefly describe the main objective or desired outcome of this project in one or two sentences.
+Briefly describe the main objective of this project.
 
 ## Key Tasks
 
-*   [ ] Task 1: Define initial requirements
-*   [ ] Task 2: Research potential solutions
-*   [ ] Task 3: Draft outline/plan
-*   [ ] Task 4: Implement solution/Create content
-*   [ ] Task 5: Review and iterate
+*   `[ ] Task 1`
+*   `[ ] Task 2`
 
 ## Related Files
 
-*   [[../personal/profile.md]] (Context about me)
-*   [[../core/knowledge-system.md]] (My KOTA setup)
-*   *(Link to other relevant notes, research, or project files)*
+(Link to other relevant files, e.g., `[[../personal/profile.md]]`)
 
 ## Notes
 
-*Add any relevant background information, context, brainstorming, meeting notes, or links here.*
-
-*   Note 1...
-*   Note 2...
+Add any relevant notes or context here.
