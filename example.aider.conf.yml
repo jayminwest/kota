@@ -1,15 +1,19 @@
+# COPY AND PASTE THIS INTO A NEW .aider.conf.yml FILE 
+
 # .aider.conf.yml
 # Add files you want Aider to always be aware of.
 # Start with your core system files and personal profile.
-files:
+read: # read only files
   - core/knowledge-system.md
   - personal/profile.md
   - personal/cognitive-profile.md
+
+files: #editable files
   - core/conversation-notes.md
 # Add more files like specific projects as your system grows!
 
 # Optional: Specify a model if you don't want to use the default
-# model: gpt-4-turbo
+# model: ollama/llama4
 
 # Optional: Configure Git integration
 # auto-commits: true # Automatically commit changes Aider makes
