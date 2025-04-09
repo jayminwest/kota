@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides a template for building a personal KOTA (Knowledge-Oriented Thinking Assistant) system using markdown files and the Aider command-line AI coding tool (`aider.chat`). It is inspired by systems like Jaymin West's personal AI setup.
+This repository provides a template for building a personal KOTA (Knowledge-Oriented Thinking Assistant) system using markdown files and the Aider command-line AI coding tool (`aider.chat`).
 
 The goal is to create a personalized, distributed cognition partner that helps you think, learn, manage projects, and automate tasks by leveraging AI assistance directly within your knowledge base.
 
