@@ -1,5 +1,7 @@
 # KOTA Template - Personal Knowledge Management with Aider
 
+> **Tip:** Have questions about this repository or how to use KOTA? Just ask Aider! Use the `/ask` command followed by your question (e.g., `/ask How do I add a new project?`). Make sure the relevant files (like this README) are added to the chat first.
+
 ## Introduction
 
 This repository provides a template for building a personal KOTA (Knowledge-Oriented Thinking Assistant) system using markdown files and the Aider command-line AI coding tool (`aider.chat`).
