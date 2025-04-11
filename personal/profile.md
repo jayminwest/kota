@@ -38,3 +38,4 @@ This file provides essential context about me for Aider/KOTA. Keep it updated! S
 
 (List and link to files in `/projects/`)
 *   `[[../projects/example-project.md]]`
+*   `[[../integrations/mcp/README.md]]` (MCP Setup Guide)
