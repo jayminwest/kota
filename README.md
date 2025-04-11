@@ -47,6 +47,14 @@ Aider is the primary interface for interacting with and evolving your KOTA syste
     ```
     *Create this file in the root of your KOTA repository.*
 
+## Extending KOTA with Integrations (MCP)
+
+You can significantly enhance your KOTA system by integrating external tools and data sources using the Model Context Protocol (MCP). This allows KOTA (via scripts) to interact with APIs, databases, calendars, and more.
+
+For detailed instructions on how to set up and use the `mcp-ts` client with your KOTA system, please refer to the guide:
+
+*   **[[integrations/mcp/README.md]]**
+
 ## First Steps with Your KOTA
 
 1.  **Fill Your Profile:** Start by thoroughly editing `personal/profile.md`. This gives Aider crucial context about you, your goals, and your preferences. Add this file to your `.aider.conf.yml`.

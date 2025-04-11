@@ -23,3 +23,12 @@ This file documents the structure, principles, and goals of my personal KOTA imp
 ## Workflow
 
 (Placeholder section: "Describe how you typically interact with your KOTA system using Aider.")
+
+## Integrations
+
+### Model Context Protocol (MCP)
+
+This KOTA system can be extended to interact with external tools and data sources using the Model Context Protocol (MCP). This requires setting up the `mcp-ts` client separately.
+
+*   **Setup Guide:** See `[[../integrations/mcp/README.md]]`
+*   **Usage:** MCP tools are typically invoked via scripts stored in the `scripts/` directory (see `[[../scripts/mcp_example.sh]]`). These scripts use the `npm run execute-tool` command provided by the `mcp-ts` client. The output from these tools can then be manually added to relevant notes or potentially processed further by Aider.

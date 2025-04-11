@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "googleworkspace": {
+      "command": "node",
+      "args": [
+        "build/index.js"
+      ],
+      "cwd": "../../../mcp-servers/google-workspace-mcp-server"
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mcp-servers/github"
+      ]
+    },
+    "example-weather": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@some-org/mcp-server-weather",
+        "--units",
+        "metric"
+      ]
+    }
+    // Add configurations for other servers you install.
+    // Remember:
+    // - Use 'cwd' with a relative path from the mcp-ts client dir if the server code is cloned elsewhere.
+    // - Put sensitive credentials (API keys, tokens) in the .env file, NOT here.
+  }
+}
